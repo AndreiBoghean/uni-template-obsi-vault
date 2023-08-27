@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "bc77acc8d34a6486",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbab4d5dea7910e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711131b54521b921",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02c9cf5313549b65",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d062893d6701495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "684aa6ccdd2a9789",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0811ad5af885e378",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76d2c88a95089de5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1acea26efcd7a2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4a44a2d4ac5207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b10f25a3639184c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "878e4c6f2fdf0809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa6e0ec5d52dba2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1b83a911e16664f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "684aa6ccdd2a9789",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-27 22.45.53.excalidraw.md",
+    "Excalidraw/Template.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 22.45.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-27 22.45.17.excalidraw.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.svg",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.svg",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.svg",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/exam 2023-04-27 08.51.15.excalidraw.md",
+    "Excalidraw/2022 paper attempt 1 2023-04-21 10.21.05.excalidraw.md",
+    "Excalidraw/lecture 9 2023-02-09 11.05.12.excalidraw.md",
+    "Excalidraw/lecture 8 2023-02-03 17.42.42.excalidraw.md",
+    "Excalidraw/lecture 7 2023-02-03 12.08.36.excalidraw.md",
+    "Excalidraw/lecture 6 2023-01-31 08.36.46.excalidraw.md",
+    "Excalidraw/lecture 16 2023-03-10 11.10.12.excalidraw.md",
+    "Excalidraw/lecture 15 2023-03-03 15.02.54.excalidraw.md",
+    "Excalidraw/lecture 13 2023-02-26 12.26.55.excalidraw.md",
+    "Excalidraw/lecture 12 2023-02-17 16.15.15.excalidraw.md",
+    "Excalidraw/lecture 11 2023-02-17 14.29.47.excalidraw.md",
+    "Excalidraw/lecture 10 2023-02-10 22.53.17.excalidraw.md",
+    "Excalidraw/circle ratios.excalidraw.md",
+    "Excalidraw/Untitled 2023-04-19 11.55.56.excalidraw.md",
+    "Excalidraw/AE1 notes 2023-02-16 10.54.31.excalidraw.md",
+    "Excalidraw/2022 summer paper 2023-04-17 11.00.00.excalidraw.md",
+    "Excalidraw/2021 paper attempt 1 2023-04-20 10.59.48.excalidraw.md",
+    "Excalidraw"
+  ]
+}
