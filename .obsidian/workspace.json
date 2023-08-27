@@ -11,8 +11,12 @@
             "id": "711131b54521b921",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md"
+              }
             }
           }
         ]
@@ -139,18 +147,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "684aa6ccdd2a9789",
+  "active": "711131b54521b921",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.svg",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.md",
+    "Excalidraw/Drawing 2023-08-27 22.47.27.excalidraw.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
+    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.md",
     "Excalidraw/Drawing 2023-08-27 22.45.53.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 22.45.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-27 22.45.17.excalidraw.md",
     "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.svg",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.md",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.svg",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.md",
     "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.svg",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
@@ -173,8 +182,6 @@
     "Excalidraw/circle ratios.excalidraw.md",
     "Excalidraw/Untitled 2023-04-19 11.55.56.excalidraw.md",
     "Excalidraw/AE1 notes 2023-02-16 10.54.31.excalidraw.md",
-    "Excalidraw/2022 summer paper 2023-04-17 11.00.00.excalidraw.md",
-    "Excalidraw/2021 paper attempt 1 2023-04-20 10.59.48.excalidraw.md",
     "Excalidraw"
   ]
 }
