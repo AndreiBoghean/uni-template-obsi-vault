@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "bc77acc8d34a6486",
+    "id": "3e4446b025afaba7",
     "type": "split",
     "children": [
       {
-        "id": "bbab4d5dea7910e8",
+        "id": "9a0df295ea642167",
         "type": "tabs",
         "children": [
           {
-            "id": "711131b54521b921",
+            "id": "43835b5482153204",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -25,67 +23,104 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02c9cf5313549b65",
+    "id": "1289de78711f8e86",
     "type": "split",
     "children": [
       {
-        "id": "8d062893d6701495",
+        "id": "08caab585b9dc579",
         "type": "tabs",
         "children": [
           {
-            "id": "684aa6ccdd2a9789",
+            "id": "1230b88ec353398b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "outline",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "0811ad5af885e378",
+            "id": "eb8bb72b290f2177",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "attacker",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "76d2c88a95089de5",
+            "id": "d641f06522123348",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "52b1811a04f3a448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1258101ec8b9054a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312
   },
   "right": {
-    "id": "1acea26efcd7a2f6",
+    "id": "aa74c43b037a7228",
     "type": "split",
     "children": [
       {
-        "id": "de4a44a2d4ac5207",
+        "id": "36f9975517d49978",
         "type": "tabs",
         "children": [
           {
-            "id": "0b10f25a3639184c",
+            "id": "c29f90bd2a3fb3f1",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8510e654e63f2d2b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
+                "file": "Excalidraw/lecture 9 2025-02-10 10.58.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,47 +128,116 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lecture 9 2025-02-10 10.58.08.excalidraw"
             }
           },
           {
-            "id": "878e4c6f2fdf0809",
+            "id": "6e7a51390c45511c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
+                "file": "Excalidraw/lecture 9 2025-02-10 10.58.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lecture 9 2025-02-10 10.58.08.excalidraw"
             }
           },
           {
-            "id": "aa6e0ec5d52dba2b",
+            "id": "3b7cb259d98bfebb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "f1b83a911e16664f",
+            "id": "72db143ced4df1ab",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md"
-              }
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "139b772a9433fe80",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "97691f3664d53914",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a3fe62e860652db8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "63e877cd07220d2f",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5df217f07248929d",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "915f68f0b90feac3",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 405,
     "collapsed": true
   },
   "left-ribbon": {
@@ -144,44 +248,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "711131b54521b921",
+  "active": "43835b5482153204",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.svg",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.md",
-    "Excalidraw/Drawing 2023-08-27 22.47.27.excalidraw.md",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.md",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/bulk import organised images.md",
-    "Excalidraw/Drawing 2023-08-27 22.45.53.excalidraw.md",
     "Excalidraw/Template.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-27 22.45.35.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-27 22.45.17.excalidraw.md",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/set grid 40.svg",
-    "Excalidraw/Scripts/Excalidraw Automate script folde/Equalize Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
-    "Excalidraw/Scripts/Excalidraw Automate script folde",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw/exam 2023-04-27 08.51.15.excalidraw.md",
-    "Excalidraw/2022 paper attempt 1 2023-04-21 10.21.05.excalidraw.md",
-    "Excalidraw/lecture 9 2023-02-09 11.05.12.excalidraw.md",
-    "Excalidraw/lecture 8 2023-02-03 17.42.42.excalidraw.md",
-    "Excalidraw/lecture 7 2023-02-03 12.08.36.excalidraw.md",
-    "Excalidraw/lecture 6 2023-01-31 08.36.46.excalidraw.md",
-    "Excalidraw/lecture 16 2023-03-10 11.10.12.excalidraw.md",
-    "Excalidraw/lecture 15 2023-03-03 15.02.54.excalidraw.md",
-    "Excalidraw/lecture 13 2023-02-26 12.26.55.excalidraw.md",
-    "Excalidraw/lecture 12 2023-02-17 16.15.15.excalidraw.md",
-    "Excalidraw/lecture 11 2023-02-17 14.29.47.excalidraw.md",
-    "Excalidraw/lecture 10 2023-02-10 22.53.17.excalidraw.md",
-    "Excalidraw/circle ratios.excalidraw.md",
-    "Excalidraw/Untitled 2023-04-19 11.55.56.excalidraw.md",
-    "Excalidraw/AE1 notes 2023-02-16 10.54.31.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Template.excalidraw.svg",
+    "test 1.md",
+    "attachments/Pasted image 20250319023719.png",
+    "notes/gl.md",
+    "attachments/Pasted image 20250319023320.png",
+    "attachments/Pasted image 20250319023347.png",
+    "notes/yehiature 1.md",
+    "attachments/Pasted image 20250319023051.png",
+    "notes/yehiature 2.md",
+    "notes/Untitled.md",
+    "attachments/Pasted image 20250310111507.png",
+    "notes/lecture 16.md",
+    "notes/lecture 15.md",
+    "attachments/Pasted image 20250310103436.png",
+    "Excalidraw/lecture 15 2025-03-10 10.21.52.excalidraw.md",
+    "notes/lecture 8.md",
+    "notes/lecture 7.md",
+    "notes/lecture 4.md",
+    "notes/lecture 2.md",
+    "attachments/sym/moodle/week 1/lecture2.pdf",
+    "notes/lecture 10.md",
+    "notes/lecture 11.md",
+    "notes/lecture 9.md",
+    "attachments/Pasted image 20250227195512.png",
+    "attachments/Pasted image 20250227150059.png",
+    "Excalidraw/lecture 10? 2025-02-24 11.14.06.excalidraw.md",
+    "notes/quant.md",
+    "notes/lecture 3.md",
+    "Excalidraw/lecture 7 2025-02-03 11.06.20.excalidraw.md",
+    "Excalidraw/lecture 10? 2025-02-24 11.14.06.excalidraw.svg",
+    "notes/lecture 6.md",
+    "notes/lecture 5.md",
+    "Excalidraw/lecture 10? 2025-02-24 10.48.42.excalidraw.md",
+    "Excalidraw/lecture 10? 2025-02-24 10.21.04.excalidraw.md",
+    "notes/index.md",
+    "notes/first yehiature.md",
+    "attachments/sym/moodle/week 3/lecture6.pdf",
+    "attachments/sym/moodle/week 3/lecture5.pdf",
+    "attachments/sym/moodle/week 4/lecture8.pdf",
+    "attachments/sym/moodle/week 4/lecture7.pdf",
+    "attachments/sym/moodle/week 4",
+    "attachments/sym/moodle/week 3",
+    "attachments/sym/moodle/week 2/lecture4.pdf",
+    "attachments/sym/moodle/week 2/lecture3.pdf",
+    "attachments/sym/moodle/week 2"
   ]
 }
