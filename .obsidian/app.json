@@ -1,7 +1,16 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "/notes",
+  "newFileFolderPath": "notes",
   "userIgnoreFilters": [
     "/archive"
-  ]
+  ],
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 75
+  }
 }

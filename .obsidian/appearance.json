@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "pdfTitles"
+  ]
 }
